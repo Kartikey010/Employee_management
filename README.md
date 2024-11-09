@@ -145,15 +145,15 @@ Table: user_roles
 
 
 ## GET : List of Employees
-![GET](Employee_management/img/img.png)
+![GET](Employee_Directory/img/img.png)
 ## GET : Single Employee
-![GET](Employee_management/img/img_1.png)
+![GET](Employee_Directory/img/img_1.png)
 ## POST
-![POST](Employee_management/img/img_3.png)
+![POST](Employee_Directory/img/img_3.png)
 ## PUT 
-![PUT](Employee_management/img/img_4.png)
+![PUT](Employee_Directory/img/img_4.png)
 ## DELETE : Single Employee
-![DELETE](Employee_management/img/img_5.png)
+![DELETE](Employee_Directory/img/img_5.png)
 ## Performing Unauthorised calls
 Username: peter only has EMPLOYEE level access. As such, performing ADMIN level actions(DELETE) will throw a **403 Forbidden** status code.  
 ![UNAUTHORISED](img/img_6.png)
