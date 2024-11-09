@@ -1,4 +1,4 @@
-# Spring Boot 3 REST API
+# Employee management
 - **with Spring Security - Basic Authentication**
 - **CRUD implementation using Hibernate/JPA ORM**
 - **using JDBC for database interaction**
